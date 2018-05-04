@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F2691B74-129F-4AC2-A88A-DB4B0F36B609}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BrowserPasswordsGrabber</RootNamespace>
-    <AssemblyName>BrowserPasswordsGrabber</AssemblyName>
+    <RootNamespace>BrowserDataGrabber</RootNamespace>
+    <AssemblyName>BrowserDataGrabber</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
