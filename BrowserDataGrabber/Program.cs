@@ -1,4 +1,4 @@
-﻿namespace BrowserPasswordsGrabber
+﻿namespace BrowserDataGrabber
 {
     class Program
     {
