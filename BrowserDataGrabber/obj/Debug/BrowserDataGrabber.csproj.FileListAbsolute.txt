@@ -9,3 +9,14 @@ C:\Users\Viliyan\source\repos\BrowserPasswordsGrabber\BrowserPasswordsGrabber\ob
 C:\Users\Viliyan\source\repos\BrowserPasswordsGrabber\BrowserPasswordsGrabber\obj\Debug\BrowserDataGrabber.csproj.CopyComplete
 C:\Users\Viliyan\source\repos\BrowserPasswordsGrabber\BrowserPasswordsGrabber\obj\Debug\BrowserPasswordsGrabber.exe
 C:\Users\Viliyan\source\repos\BrowserPasswordsGrabber\BrowserPasswordsGrabber\obj\Debug\BrowserPasswordsGrabber.pdb
+C:\Users\Viliyan\Source\Repos\BrowserDataGrabber\BrowserDataGrabber\bin\Debug\BrowserPasswordsGrabber.exe.config
+C:\Users\Viliyan\Source\Repos\BrowserDataGrabber\BrowserDataGrabber\bin\Debug\BrowserPasswordsGrabber.exe
+C:\Users\Viliyan\Source\Repos\BrowserDataGrabber\BrowserDataGrabber\bin\Debug\BrowserPasswordsGrabber.pdb
+C:\Users\Viliyan\Source\Repos\BrowserDataGrabber\BrowserDataGrabber\bin\Debug\System.Data.SQLite.dll
+C:\Users\Viliyan\Source\Repos\BrowserDataGrabber\BrowserDataGrabber\bin\Debug\System.Data.SQLite.xml
+C:\Users\Viliyan\Source\Repos\BrowserDataGrabber\BrowserDataGrabber\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Viliyan\Source\Repos\BrowserDataGrabber\BrowserDataGrabber\obj\Debug\BrowserDataGrabber.csprojResolveAssemblyReference.cache
+C:\Users\Viliyan\Source\Repos\BrowserDataGrabber\BrowserDataGrabber\obj\Debug\BrowserDataGrabber.csproj.CoreCompileInputs.cache
+C:\Users\Viliyan\Source\Repos\BrowserDataGrabber\BrowserDataGrabber\obj\Debug\BrowserDataGrabber.csproj.CopyComplete
+C:\Users\Viliyan\Source\Repos\BrowserDataGrabber\BrowserDataGrabber\obj\Debug\BrowserPasswordsGrabber.exe
+C:\Users\Viliyan\Source\Repos\BrowserDataGrabber\BrowserDataGrabber\obj\Debug\BrowserPasswordsGrabber.pdb
