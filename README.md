@@ -11,7 +11,7 @@ Windows .NET application which extracts sensitive user data from the most popula
 * .NET Framework Version: 4.6.1
 * IDE used for development: Visual Studio (recommended)
 
-## Additional Refereces
+## Additional References
 * SQLite Core 1.0.108 (installed using NuGet Package Manager)
 
 ## License
